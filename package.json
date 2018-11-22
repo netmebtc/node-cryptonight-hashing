@@ -1,0 +1,55 @@
+{
+  "_from": "git://github.com/mox-project/node-cryptonight-hashing.git",
+  "_id": "cryptonight-hashing@2.2.0",
+  "_inBundle": false,
+  "_location": "/cryptonight-hashing",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git://github.com/mox-project/node-cryptonight-hashing.git",
+    "rawSpec": "git://github.com/mox-project/node-cryptonight-hashing.git",
+    "saveSpec": "git://github.com/mox-project/node-cryptonight-hashing.git",
+    "fetchSpec": "git://github.com/mox-project/node-cryptonight-hashing.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git://github.com/mox-project/node-cryptonight-hashing.git#e2909a29ea05b07793046aa509a2edba37af7094",
+  "_spec": "git://github.com/mox-project/node-cryptonight-hashing.git",
+  "_where": "/usr/mox/pool",
+  "author": {
+    "name": "Multiple",
+    "email": "Check The Git Repo"
+  },
+  "bugs": {
+    "url": "https://github.com/MoneroOcean/node-cryptonight-hashing/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "bindings": "*",
+    "nan": "^2.0.0"
+  },
+  "deprecated": false,
+  "description": "node-cryptonight-hashing ===============",
+  "gypfile": true,
+  "homepage": "https://github.com/MoneroOcean/node-cryptonight-hashing#readme",
+  "keywords": [
+    "cryptonight",
+    "cryptonote",
+    "forknote",
+    "bytecoin",
+    "monero"
+  ],
+  "main": "cryptonight-hashing",
+  "name": "cryptonight-hashing",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoneroOcean/node-cryptonight-hashing.git"
+  },
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "version": "2.2.0"
+}
